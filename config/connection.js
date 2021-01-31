@@ -5,7 +5,7 @@ var connection = mysql.createConnection({
     port: 3000,
     user: "root",
     password: "password",
-    database: "StuffImGonnaDo_db"
+    database: "bookList_db"
 });
 
 var connection = mysql.createConnection(process.env.JAWSDB_URL);

@@ -1,0 +1,23 @@
+{
+  "name": "express-handlebars",
+  "version": "1.0.0",
+  "description": "create an application with MySQL, Node, Express, Handlebars and a homemade ORM. Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jas-F/node-express-handlebars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jas-F/node-express-handlebars/issues"
+  },
+  "homepage": "https://github.com/Jas-F/node-express-handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
